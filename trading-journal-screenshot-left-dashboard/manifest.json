@@ -1,0 +1,9 @@
+{
+  "name": "Edge Journal",
+  "short_name": "Edge Journal",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#08101d",
+  "theme_color": "#0b1020",
+  "icons": []
+}
